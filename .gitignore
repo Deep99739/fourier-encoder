@@ -1,0 +1,32 @@
+# Project report (private)
+Project27.md
+
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+*.env
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Weights & checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# WandB
+wandb/
+
+# Logs
+*.log
